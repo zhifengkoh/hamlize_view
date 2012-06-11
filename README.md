@@ -6,7 +6,7 @@ Simple `bash` script for calling `html2haml` on your Rails view files.
     
 ### 1. Clone this repo
     
-    git clone git://github.com/zhifengkoh/hamlize_view
+    git clone git://github.com/zhifengkoh/hamlize_view.git
 
 ### 2. Add the script to your `$PATH`
 
